@@ -1,0 +1,18 @@
+@theme {
+  /* Brand / Action Colors */
+  --color-brand-light: var(--color-sky-200);
+  --color-brand: var(--color-sky-300);
+  --color-brand-dark: var(--color-sky-400);
+  --color-brand-darker: var(--color-sky-600);
+
+  /* Surface / Background Colors */
+  --color-surface-base: var(--color-zinc-950);
+  --color-surface-card: var(--color-zinc-900);
+  --color-surface-hover: var(--color-zinc-800);
+  --color-surface-border: var(--color-zinc-700);
+
+  /* Content / Text Colors */
+  --color-content-primary: #ffffff;
+  --color-content-secondary: var(--color-zinc-400);
+  --color-content-muted: var(--color-zinc-500);
+}

@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+@import './theme.css';
+
+@layer base {
+  html {
+    background-color: var(--color-surface-base);
+  }
+
+  body {
+    color: var(--color-content-primary);
+    line-height: 1.6;
+  }
+
+  body::-webkit-scrollbar {
+    display: none;
+  }
+}
