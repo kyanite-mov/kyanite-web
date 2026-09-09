@@ -1,5 +1,7 @@
 # kyanite-web
 
+WPI
+
 ## Project Setup
 
 ```sh
